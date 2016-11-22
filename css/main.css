@@ -1,0 +1,63 @@
+body{
+    padding-top: 50px;
+}
+
+#headerWrapper{
+    position: relative;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height:600px;
+    background-image: url(../images/background2.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 680px;
+    background-position: top center;
+    background-attachment: fixed;
+}
+
+#logotext{
+    position: absolute;
+    width: 100%;
+    height: 150px;
+    background-image: url(../images/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50% 150px;
+    top: 50%;
+    margin-top: -90px;
+}
+
+#fore-flower{
+position: absolute;
+    width: 100%;
+    height: 160px;
+    background-image: url(../images/webshop.png) ;
+    background-size: auto 160px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    top: 465px;
+    right: 0px;
+}
+
+#back-flower{
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    background-image: url(../images/webshop.png);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: auto 250px;
+    top: 400px;
+    left: -25px;
+}
+
+.img-thump{
+    width: auto;
+    height: 200px;
+}
+
+
+#footer{
+    margin-top: 50px;
+
+}
