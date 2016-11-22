@@ -121,13 +121,13 @@
 
 
 <!-- Footer -->
-<footer class="text-center" id="footer">&copy; Copyright 2016 - Banik - Svijet Kupatila </footer>
+<footer class="text-center" id="footer">&copy; Copyright 2016 - Banik - Svijet Kupatila - CD Nova </footer>
 
 
 
 <!-- Details Modal -->
 <div class="modal fade details-1" id="details1" tabindex="-1" role="dialog" aria-labelledby="details-1" aria-hidden="true">
-    
+
 </div>
 
 
